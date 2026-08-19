@@ -1,0 +1,56 @@
+body{
+    background-color: grey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+#trang{
+    width: 100px;
+}
+
+#tc{
+    font-size: 50px;
+}
+
+#hinh{
+    font-size: 50px;
+}
+
+#menu{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+}
+
+#hinh1{
+    width: 200px;
+}
+
+#hinh2{
+    width: 200px;
+}
+
+#hinh3{
+    width: 200px;
+}
+
+#hinh4{
+    width: 200px;
+}
+#hinh5{
+    width: 200px;
+}
+#hinh6{
+    width: 500px;
+}
+#hinh7{
+    width: 500px;
+}
+
+#nut{
+    font-size: 50px;
+}
